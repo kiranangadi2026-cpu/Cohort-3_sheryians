@@ -67,11 +67,12 @@ nav p:hover {
 }
 
 .section-1 .img-box {
-    height: 580px;
+     height: 600px;
     width: 100%;
     background-color: crimson;
     background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-AI-7Ed-Sapphire-MC001-3000x1682:VP4-1399x600");
     object-fit: cover;
+    background-size: cover;
     background-position: right;
 }
 
@@ -305,7 +306,7 @@ button:hover {
 
 footer p:hover {
     cursor: pointer;
-    border-bottom: 1px solid #828c94;
+    color: #0067B8;
 }
 
 
